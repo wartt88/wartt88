@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python IA, threeJS**
 
-- 👨‍💻 The most complete : [DiagMov](https://github.com/wartt88/SAE_3_01_DiagMov.git)
+- 👨‍💻 The most complete project : [DiagMov](https://github.com/wartt88/SAE_3_01_DiagMov.git)
 
 - 📫 How to reach me **theo036188@gmail.com**
 
