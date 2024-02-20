@@ -18,6 +18,8 @@ Cette formation d'effectue en 3ans :</p>
 Pour ce qui est des compétences techniques, le BUT propose un large ensemble de projets et stages répartit tout au long de la formation dans le but d'enmener les étudiants vers une certaine maturité quant au travail en entreprise.
 </p>
 
+<h3 align="left">Compétences BUT :</h3>
+<img src="./competences.svg" title="hover text">
 
 <h1></h1>
 
